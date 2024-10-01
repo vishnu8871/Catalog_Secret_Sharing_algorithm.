@@ -10,8 +10,8 @@ public class SecretReconstructionFromFile {
     public static void main(String[] args) {
         try {
             // Path to the JSON files for both test cases (you can provide your own paths)
-            File testCase1 = new File("C:\\Users\\srika\\OneDrive\\Desktop\\cat\\testcase1.json");  // JSON file for first test case
-            File testCase2 = new File("C:\\Users\\srika\\OneDrive\\Desktop\\cat\\testcase2.json");  // JSON file for second test case
+            File testCase1 = new File("C:\\Users\\OneDrive\\Desktop\\cat\\testcase1.json");  // JSON file for first test case
+            File testCase2 = new File("C:\\Users\\OneDrive\\Desktop\\cat\\testcase2.json");  // JSON file for second test case
 
             // Process both test cases
             System.out.println("Processing Test Case 1:");
